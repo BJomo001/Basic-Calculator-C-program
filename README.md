@@ -156,7 +156,7 @@ This project helps beginners practice:
 
 ✔ Handling basic calculation errors.
 
-## 🚀 Future Improvements
+## 🔮 Future Improvements
 
 Potential improvements include:
 
@@ -170,7 +170,8 @@ Potential improvements include:
 
 ✔ Improving portability across operating systems.
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions, suggestions, and feedback are welcome!
 
 To contribute:
@@ -185,7 +186,7 @@ Push your branch to GitHub.
 
 Open a pull request describing your changes.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
