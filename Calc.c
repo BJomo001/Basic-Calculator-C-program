@@ -3,7 +3,12 @@
 
 int main()
 {
-    printf("Hello world");
+    
+    char operator;
+    double a;
+    double b;
+    double result;
+    
 
 
     return 0;
