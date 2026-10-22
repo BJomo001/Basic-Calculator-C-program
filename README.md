@@ -106,7 +106,7 @@ Please enter the first number:
 
 Please enter the operator (+, -, *, or /):
 
-+ (Addition)
+ + (Addition)
 
 Please enter the second number:
 
@@ -118,13 +118,13 @@ Please enter the second number:
 
 Operation	Example	Result
 
-Addition	10 + 5	15.00
+Addition	10 + 5 =	15.00
 
-Subtraction	10 - 5	5.00
+Subtraction	10 - 5 =	5.00
 
-Multiplication	10 * 5	50.00
+Multiplication	10 * 5 =	50.00
 
-Division	10 / 5	2.00
+Division	10 / 5 =	2.00
 
 ## ⚠️ Error Handling
 
