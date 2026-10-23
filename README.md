@@ -40,9 +40,9 @@ Basic-Calculator-C-program/
 
 │
 
-├── Calc.c
+├── Calc.c # Interactive functionality
 
-└── README.md
+└── README.md # Project documentation
 
 ## ⚙️ Getting Started
 
